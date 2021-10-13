@@ -5,6 +5,7 @@ This is a barebones csv files noting studies described in:
 Hanson, J. L., & Nacewicz, B. M. (2021). Amygdala Allostasis and Early Life Adversity: Considering Excitotoxicity and Inescapability in the Sequelae of Stress. Frontiers in Human Neuroscience, 15.
 
 The csv file contains multiple columns that are useful for conceptualizing relations between adversity and the amygdala, including:
+
 -Effect Size (Cohen's d, with 95% confidence intervals)
 
 -Age range of study participants (mean and standard deviation)
